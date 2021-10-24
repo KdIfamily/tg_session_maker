@@ -23,7 +23,7 @@ Generate Pyrogram String Session Using this bot.
 <a href="https://t.me/thanimaisupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 #### Coded By
-- [🕊️⃝‌⭕]ᯱꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ 🇰𝖎𝖙𝖙𝖚🇹𝖙𝖍𝖊 🇲𝖊⭕𝖜](https://t.me/Kittu_the_criminal)
+- [🕊️⃝‌⭕ᯱꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ 🇰𝖎𝖙𝖙𝖚🇹𝖙𝖍𝖊 🇲𝖊⭕𝖜](https://t.me/Kittu_the_criminal)
 - [⚠💔🇱‌🇴‌🇳‌🇪‌🇱‌🇾‌🇰‌🇮‌🇳‌🇬‌💔⚠](https://t.me/@Sarbudeen786)
 
 
