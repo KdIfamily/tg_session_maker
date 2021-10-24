@@ -1,6 +1,10 @@
 # TG-String-Session
 Generate Pyrogram String Session Using this bot.
-https://telegra.ph/file/3a4f7abbe00d7ce3940a5.jpg
+
+<p align="center">
+  <img src="https://telegra.ph/file/329647a798cccb101aecf.jpg">
+</p>
+
 ## Demo Bot:
 <a href="https://t.me/StringSessionGen_Bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
